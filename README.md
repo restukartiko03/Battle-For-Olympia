@@ -2,3 +2,10 @@
 
 COMPILATION :
 gcc -Wall main.c player.c matriks.c listofunit.c unit.c listvillage.c village.c pcolor.c point.c stackofplayer.c mesinkata.c mesinkar.c stackofpoint.c saveload.c interface.c -lm -o hasil
+
+Contributor:
+Restu Wahyu Kartiko (@rwk03)
+Ilham Firdausi Putra (@Ilhamfp31)
+Priagung Satyagama (@priagungs)
+Renjira Naufhal Dhiaegana (@renjiraND)
+Muhammad Nurraihan Naufal (@mnurraihann)
